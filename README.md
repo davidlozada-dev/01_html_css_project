@@ -45,17 +45,17 @@ The __mobile view__ manages the same parts as the desktop view with the differen
 
 ```JAVASCRIPT
 
-		let menuList = document.getElementById("menuList");
+let menuList = document.getElementById("menuList");
 
+menuList.style.maxHeight = "0px";
+
+function togglemenu(){
+	if (menuList.style.maxHeight == "0px") {
+		menuList.style.maxHeight = "130px";
+	}else {
 		menuList.style.maxHeight = "0px";
-
-		function togglemenu(){
-			if (menuList.style.maxHeight == "0px") {
-				menuList.style.maxHeight = "130px";
-			}else {
-				menuList.style.maxHeight = "0px";
-			}
-		}
+	}
+}
 
 ```
 
