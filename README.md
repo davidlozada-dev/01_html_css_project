@@ -6,13 +6,13 @@ __Project's status: *finished*__ :heavy_check_mark:
 
 1. [Introduction](#1-Introduction)
 	
-	1. [Motivation behind the project](#11-Motivation-behind-the-project)
+	1.[Motivation behind the project](#11-Motivation-behind-the-project)
 
-	2. [Landing page layouts](#12-Landing-page-layouts)
+	2.[Landing page layouts](#12-Landing-page-layouts)
 
 1. [Technical aspects](#2-Technical-aspects)
 
-	1. [Dropdown menu](#21-Dropdown-menu)
+	1.[Dropdown menu](#21-Dropdown-menu)
 
 1. [Contributor](#3-Contributor)
 
