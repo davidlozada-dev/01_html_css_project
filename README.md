@@ -26,6 +26,7 @@ This project is a fast way to put into practice fandamental HTML and CSS concept
 	
 	1. CSS
 	2. HTML
+	3. JavaScript
 
 ### 1.2 Landing page layouts
 
