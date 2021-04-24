@@ -20,6 +20,8 @@ __Project's status: *finished*__ :heavy_check_mark:
 
 ### 1.1 Motivation behind the project
 
+This project is a fast way to put into practice fandamental HTML and CSS concepts by making a responsive landing page for a gameing store. 
+
 #### Technologies/tools used for this project
 	
 	1. CSS
@@ -42,6 +44,8 @@ The __mobile view__ manages the same parts as the desktop view with the differen
 ## 2 Technical aspects
 
 ### 2.1 Dropdown menu
+
+The dropdown menu is only shown on the mobile view, when the user clicks on the menu icon button activates a JavaScript function which compares the unordered list's maximum height whose default value is 0px on the mobile view and if it is 0px, it sets as new maximum heigh 130px displaying all four buttons showed on the desktop view as a list. Otherwise, if the unordered list's maximum height is greater than 0px, it sets as new maximum height 0px hidding all the four buttons.
 
 ```JAVASCRIPT
 
